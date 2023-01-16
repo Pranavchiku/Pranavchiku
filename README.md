@@ -1,7 +1,8 @@
 ## Hi there, I am Pranav👋
 ## I am a Pre Final Year student at CSE Department, IIT Jodhpur, Exploring the world of development.
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working as a Compiler Developer Intern @lfortran
+- 🌱 Software Development Intern @Warner Bros. Discovery in Summer'2023.
+- 🔭 I’m currently working as a Compiler Developer @lfortran | Javascript Developer @stdlib-js
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: <a href="mailto:goswami.4@iitj.ac.in">goswami.4@iitj.ac.in</a>
 ## 🚀 Languages and Tools

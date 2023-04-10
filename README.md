@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=Hii%20Pranav%20here!💻&animation=fadeIn&type=waving&color=gradient&height=100)
-## I am Junior at Computer Science Department, IIT Jodhpur.
+
 ## 🙋‍♂️ About Me
+- 👨🏼‍🎓 I am Junior at Computer Science Department, IIT Jodhpur.
 - 🌱 Software Development Intern @Warner Bros. Discovery in Summer'2023.
 - 🔭 I’m currently working as a Compiler Developer @lfortran | Javascript Developer @stdlib-js
 - 👯 I’m looking to collaborate on open source projects.

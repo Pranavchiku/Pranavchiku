@@ -3,6 +3,7 @@
 ## 🙋‍♂️ About Me
 - 👨🏼‍🎓 I am Junior at Computer Science Department, IIT Jodhpur.
 - 🌱 Software Development Intern @Warner Bros. Discovery in Summer'2023.
+- ✨ I'm GSoC '2023 contributor @fortran-lang, trying to get LFortran compile Fortran codebase of SciPy.
 - 🔭 I’m currently working as a Compiler Developer @lfortran | Javascript Developer @stdlib-js
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: <a href="mailto:goswami.4@iitj.ac.in">goswami.4@iitj.ac.in</a>

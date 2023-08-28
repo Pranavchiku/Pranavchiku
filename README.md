@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=Hii%20Pranav%20here!💻&animation=fadeIn&type=waving&color=gradient&height=100)
 
 ## 🙋‍♂️ About Me
-- 👨🏼‍🎓 I am Junior at Computer Science Department, IIT Jodhpur.
+- 👨🏼‍🎓 I'm a final year undergrad at the computer science department, IIT Jodhpur.
 - 🌱 Software Development Intern @Warner Bros. Discovery in Summer'2023.
 - ✨ I'm GSoC '2023 contributor @fortran-lang, trying to get LFortran compile Fortran codebase of SciPy.
 - 🔭 I’m currently working as a Compiler Developer @lfortran | Javascript Developer @stdlib-js

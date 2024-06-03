@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?text=Hii%20Pranav%20here!💻&animation=fadeIn&type=waving&color=gradient&height=100)
 
 ## 🙋‍♂️ About Me
-- 👨🏼‍🎓 I'm a final year undergrad at the computer science department, IIT Jodhpur.
-- 🌱 Software Development Intern @Warner Bros. Discovery in Summer'2023.
-- ✨ I'm GSoC '2023 contributor @fortran-lang, trying to get LFortran compile Fortran codebase of SciPy.
+- 👨🏼‍🎓 I'm a computer science graduate from IIT Jodhpur.
+- 🌱 Upcoming Machine Learning Engineer @Warner Bros. Discovery. Software Development Intern @Warner Bros. Discovery in Summer'2023.
+- ✨ I'm a GSoC '2023 recipient @fortran-lang, worked to get LFortran compile Fortran codebase of SciPy.
 - 🔭 I’m currently working as a Compiler Developer @lfortran | Javascript Developer @stdlib-js
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: <a href="mailto:goswami.4@iitj.ac.in">goswami.4@iitj.ac.in</a>
+- 📫 How to reach me: <a href="mailto:pranavchiku11@gmail.com">pranavchiku11@gmail.com</a> / <a href="mailto:goswami.4@iitj.ac.in">goswami.4@iitj.ac.in</a>
 ## 🚀 Languages and Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">

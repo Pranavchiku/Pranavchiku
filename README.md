@@ -2,7 +2,9 @@
 
 ## 🙋‍♂️ About Me
 - 👨🏼‍🎓 I'm a computer science graduate from IIT Jodhpur.
-- 🌱 Upcoming Machine Learning Engineer @Warner Bros. Discovery. Software Development Intern @Warner Bros. Discovery in Summer'2023.
+- 🌱 Upcoming Machine Learning Engineer @Warner Bros. Discovery.
+- 👨‍💻 Summer '2024 @QuansightLabs as Open Source Developer Intern.
+- 🤖 Software Development Intern @Warner Bros. Discovery in Summer'2023.
 - ✨ I'm a GSoC '2023 recipient @fortran-lang, worked to get LFortran compile Fortran codebase of SciPy.
 - 🔭 I’m currently working as a Compiler Developer @lfortran | Javascript Developer @stdlib-js
 - 👯 I’m looking to collaborate on open source projects.
@@ -30,7 +32,7 @@
 [![Pranav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranavchiku&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=github-dark-blue)](https://git.io/streak-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavchiku&layout=compact&theme=github_dark&hide_border=True&langs_count=10)]()\
 PS: Top Languages are metric of language that my public code contains it doesnot reflect my experience or skill level.\
-[![Pranav's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pranavchiku&custom_title=Pranav's%20contribution%20graph&hide_border=true&theme=react-dark)]()
+<!-- [![Pranav's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pranavchiku&custom_title=Pranav's%20contribution%20graph&hide_border=true&theme=react-dark)]() -->
 ## 🚀 Github 3D Contribution
 ![](./profile-3d-contrib/profile-green-animate.svg)
 ## ❤ Profile Views and Followers

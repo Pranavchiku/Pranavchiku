@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 - 👨🏼‍🎓 I'm a computer science graduate from IIT Jodhpur.
-- 🌱 Upcoming Machine Learning Engineer @Warner Bros. Discovery.
+- 🌱 Machine Learning Engineer @Warner Bros. Discovery.
 - 👨‍💻 Summer '2024 @QuansightLabs as Open Source Developer Intern.
 - 🤖 Software Development Intern @Warner Bros. Discovery in Summer'2023.
 - ✨ I'm a GSoC '2023 recipient @fortran-lang, worked to get LFortran compile Fortran codebase of SciPy.

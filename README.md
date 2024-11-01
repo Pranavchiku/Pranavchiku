@@ -34,7 +34,7 @@
 PS: Top Languages are metric of language that my public code contains it doesnot reflect my experience or skill level.\
 <!-- [![Pranav's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pranavchiku&custom_title=Pranav's%20contribution%20graph&hide_border=true&theme=react-dark)]() -->
 ## 🚀 Github 3D Contribution
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
 ## ❤ Profile Views and Followers
 ![](https://komarev.com/ghpvc/?username=Pranavchiku&color=blue) 
 <!--
